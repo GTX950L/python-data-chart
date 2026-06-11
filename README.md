@@ -1,5 +1,13 @@
 # 📊 数据画图工具
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Level](https://img.shields.io/badge/练习-初学者-blue?style=flat-square)
+
+</div>
+
 一个用 Python + matplotlib 编写的命令行数据可视化工具，支持从 Excel/CSV 读取数据并生成各类图表。
 
 ## ✨ 功能
